@@ -6,7 +6,7 @@
   <br /><br />
 
   <!-- Bio / Tagline -->
-  <h3>I enjoy making cool stuff under pressure</h3>
+  <h3>Quietly building things you wish you thought of.</h3>
 
   <!-- Email -->
   <h3>e-mail : <a href="mailto:bekmanel5@gmail.com">bekmanel5@gmail.com</a></h3>
