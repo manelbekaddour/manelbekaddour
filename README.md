@@ -19,6 +19,8 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 
+    <h3>MY PERSONAL PORTFOLIO: <a href="https://manelwasheree.github.io/manel-portfolio/">https://manelwasheree.github.io/manel-portfolio/</a></h3>
+
 
   <!-- Languages and Tools -->
   <h3>Languages and Tools:</h3>
